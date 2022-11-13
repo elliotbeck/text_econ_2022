@@ -152,5 +152,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-assignments/
-!assignments/Assignment*.ipynb
+assignments/*
+!assignments/Assignment_*.ipynb
